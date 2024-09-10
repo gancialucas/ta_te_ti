@@ -1,4 +1,4 @@
-# Ta Te Ti (Tic-Tac-Toe)
+# Ta Te Ti (Tic-Tac-Toe) 🕹
 
 Este es un simple juego de **Ta Te Ti** (conocido también como Tic-Tac-Toe) desarrollado en React. Dos jugadores (X y O) se turnan para marcar espacios en una cuadrícula de 3x3, y el primer jugador que consiga alinear tres de sus símbolos (horizontal, vertical o diagonalmente) gana.
 
